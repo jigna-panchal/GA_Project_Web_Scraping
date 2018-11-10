@@ -1,0 +1,201 @@
+,City,Company,Title,Location,Salary,Clean_Salary
+32,Los+Angeles,NaN,Computer Scientist,"Los Angeles, CA","$108,281-$153,510ayear",130895.5
+93,Los+Angeles,FluidManufacturing,Cannabis Lead Formulation Chemist (Flavoring Expert),"Pacific Palisades, CA 90272","$60,000-$125,000ayear",92500.0
+105,Los+Angeles,Harnham,"Data Scientist, Marketing - Ecommerce","Los Angeles, CA","$120,000ayear",120000.0
+122,Los+Angeles,Harnham,Senior Data Scientist,"Los Angeles, CA","$150,000ayear",150000.0
+155,Los+Angeles,NaN,MIS Director,"Los Angeles, CA","$124,239-$207,057ayear",165648.0
+421,Los+Angeles,Harnham,"Director, Digital Media Analytics","Los Angeles, CA","$160,000ayear",160000.0
+542,Denver,NaN,Professional Research Assistant,"Aurora, CO","$45,000-$75,000ayear",60000.0
+566,Denver,NaN,Operations Research Analyst,"Buckley AFB, CO","$72,168-$155,073ayear",113620.5
+1126,San+Francisco,NaN,Data Scientist,"San Francisco, CA","$130,000-$190,000ayear",160000.0
+1134,San+Francisco,Harnham,Marketing Data Scientist,"San Francisco, CA","$150,000ayear",150000.0
+1161,San+Francisco,Harnham,Marketing Data Scientist - Contract to Hire,"Oakland, CA","$120,000ayear",120000.0
+1167,San+Francisco,BlueOwl,Senior Data Engineer,"San Francisco, CA","$200,000-$300,000ayear",250000.0
+1179,San+Francisco,Harnham,Data Scientist Lead - Remote Opportunity,"San Francisco, CA","$120,000ayear",120000.0
+1189,San+Francisco,Harnham,Data Scientist - Global Retailer,"Oakland, CA","$120,000ayear",120000.0
+1221,San+Francisco,NaN,Lead Data Scientist,"San Francisco, CA","$170,000-$220,000ayear",195000.0
+1234,San+Francisco,NaN,"Principal, Data Scientist","San Francisco, CA","$180,000-$220,000ayear",200000.0
+1262,San+Francisco,Harnham,Data Scientist - Marketing Analytics,"San Francisco, CA","$150,000ayear",150000.0
+1293,San+Francisco,Harnham,Senior Deep Learning Data Scientist,"San Francisco, CA","$180,000ayear",180000.0
+1307,San+Francisco,NaN,Senior Data Scientist,"San Francisco, CA","$150,000-$190,000ayear",170000.0
+1312,San+Francisco,NaN,Research Analyst 5,"Berkeley, CA","$86,600-$101,800ayear",94200.0
+1411,San+Francisco,NaN,"Senior NLP Data Scientist (Python, NLTK, AWS, SciKitLearn)","San Francisco, CA","$140,000-$190,000ayear",165000.0
+1521,Chicago,NaN,Data Scientist,"Chicago, IL","$125,000-$130,000ayear",127500.0
+1533,Chicago,NaN,Mid Level Data Scientist (Regression/Visualization),"Chicago, IL","$95,000-$115,000ayear",105000.0
+1577,Chicago,S.C.International,Data Scientist,"Chicago, IL","$100,000ayear",100000.0
+1592,Chicago,NaN,"Mid-Level Data Scientist (Python, Pandas, NumPy, SciKit Learn, AWS)","Chicago, IL","$120,000ayear",120000.0
+1609,Chicago,NaN,Research Analyst - Oakton Community College,"Des Plaines, IL 60016","$57,702ayear",57702.0
+1739,Chicago,NaN,Data Engineer (Downtown),"Chicago, IL","$100,000-$120,000ayear",110000.0
+1744,Chicago,NaN,Data Science Manager,"Chicago, IL","$100,000-$150,000ayear",125000.0
+1777,Chicago,NaN,Experienced Data Engineer (Health tech),"Chicago, IL","$95,000-$120,000ayear",107500.0
+1791,Chicago,NaN,"AVP, Salesforce Effectiveness & Commercial Insights (L11)","Chicago, IL","$70,000-$150,000ayear",110000.0
+1823,Chicago,NaN,Market Research Analyst,"Burr Ridge, IL","$60,000-$85,000ayear",72500.0
+1912,Chicago,NaN,CRM Consultant/Senior Statistical Analyst,"Chicago, IL","$80,000-$95,000ayear",87500.0
+1942,Chicago,NaN,"Mid to Senior Data Engineer (Healthcare, Insurance, Finance)","Chicago, IL","$90,000-$120,000ayear",105000.0
+1956,Chicago,NaN,Lead Java Engineer,"Chicago, IL","$110,000-$130,000ayear",120000.0
+1959,Chicago,ScienapticSystemsInc,Data Scientist,"Chicago, IL","$80,000-$100,000ayear",90000.0
+1960,Chicago,NaN,"Senior Software Engineer- (Java, Spring, AWS)","Chicago, IL","$150,000ayear",150000.0
+1971,Chicago,e.biTConsulting,Machine Learning Data Scientist,"Chicago, IL","$100,000-$140,000ayear",120000.0
+2186,Dallas,AuraTech,Big Data Scientist,"Plano, TX","$80,000-$120,000ayear",100000.0
+2187,Dallas,"JAMYINTERACTIVE,INC",Data Scientist,"Dallas, TX","$130,000-$150,000ayear",140000.0
+2200,Dallas,"JAMYINTERACTIVE,INC",Big Data Engineer,"Dallas, TX","$90,000-$100,000ayear",95000.0
+2202,Dallas,AlmatyHealth,Machine Learning Engineer,"Dallas, TX","$110,000-$140,000ayear",125000.0
+2208,Dallas,"JAMYINTERACTIVE,INC",Big Data / Hadoop Architect,"Dallas, TX","$110,000-$120,000ayear",115000.0
+2234,Dallas,NaN,Machine Learning Technical Lead,"Plano, TX","$120,000-$130,000ayear",125000.0
+2242,Dallas,"RiccioneResources,Inc","Automation QA Engineer – Linux, Python, Java Applications, Machine Learning",,"$75,000-$90,000ayear",82500.0
+2504,Portland,OregonFoodBankInc,Prospect Research Analyst,,"$47,476ayear",47476.0
+2506,Portland,NaN,Research Associate,"Portland, OR","$58,992ayear",58992.0
+2512,Portland,NaN,Research Assistant 2,"Portland, OR","$39,902-$55,955ayear",47928.5
+2517,Portland,NaN,Hydrologic Technician Recent Graduate GS-1316-04/05/06 (RG-SH),"Portland, OR","$31,700-$51,388ayear",41544.0
+2540,Portland,NaN,Senior Research Assistant,"Portland, OR","$44,552-$63,586ayear",54069.0
+2548,Portland,NaN,Research Associate,"Portland, OR","$53,443-$76,703ayear",65073.0
+2590,Portland,WatershedPDX,Data Scientist,"Portland, OR","$50,000-$80,000ayear",65000.0
+2595,Portland,SitkaTechnologyGroup,Business Analyst,,"$55,000-$68,000ayear",61500.0
+2597,Portland,NaN,Market Research Analyst,"Vancouver, WA","$55,000-$75,000ayear",65000.0
+2991,Houston,NaN,Institute Research Scientist - In-Vitro Pharmacology,,"$98,000-$147,000ayear",122500.0
+2992,Houston,NaN,Staff Scientist,"Houston, TX","$50,000ayear",50000.0
+3033,Houston,NaN,Institute Sr Research Scientist - Flow Cytometry - ECLIPSE,,"$112,000-$168,000ayear",140000.0
+3035,Houston,NaN,Systems Analyst - Quantitative Research Computing,,"$68,400-$102,600ayear",85500.0
+3038,Houston,NaN,Research Scientist - GI Medical Oncology,,"$53,200-$79,800ayear",66500.0
+3042,Houston,NaN,Research Scientist (non-lab position) - Institute for Personalized for Cancer Therapy,,"$53,200-$79,800ayear",66500.0
+3049,Houston,NaN,Institute Research Scientist - Program Biology - ECLIPSE,,"$98,000-$147,000ayear",122500.0
+3050,Houston,NaN,Research Assistant I - Sarcoma Medical Oncology,,"$34,400-$51,600ayear",43000.0
+3059,Houston,NaN,Research Associate- Machine Learning,"Houston, TX","$90,000ayear",90000.0
+3084,Houston,NaN,Research Assistant II - Tissue Culture/Mammalian Cell Culture,,"$34,400-$51,600ayear",43000.0
+3092,Houston,NaN,Program Manager - Surgical Oncology,,"$69,600-$104,400ayear",87000.0
+3107,Houston,NaN,Research Assistant II - Melanoma Medical Oncology,,"$34,400-$51,600ayear",43000.0
+3115,Houston,NaN,Clinical Research Analyst - Clinical Research Finance,,"$52,000-$78,000ayear",65000.0
+3158,Houston,NaN,Solution Architect,"Houston, TX","$106,820ayear",106820.0
+3160,Houston,NaN,"Coordinator, Clinical Research Program (Regulatory Submissions) - GI Medical Oncology",,"$50,800-$76,200ayear",63500.0
+3164,Houston,NaN,Flow Cytometry Specialist II,"Houston, TX","$83,329ayear",83329.0
+3180,Houston,"Labstat,LLC","Certifying Scientist, Toxicology","Houston, TX","$70,000-$100,000ayear",85000.0
+3182,Houston,StemCellReserve,Senior Scientist,,"$75,000-$150,000ayear",112500.0
+3189,Houston,"LoneStarBlower,Inc",Operations Research Analyst,"Houston, TX","$93,500ayear",93500.0
+3212,Houston,TexasA&MUniversity,Postdoctoral Research Associate,,"$49,000-$70,000ayear",59500.0
+3220,Houston,Rekruiters,C++ Software Engineer,,"$50,000ayear",50000.0
+3477,London,NaN,Research Scientist,"Columbus, OH 43212","$50,000-$72,000ayear",61000.0
+3479,London,NaN,Data Analytics Consultant,"Columbus, OH 43212","$78,600-$121,830ayear",100215.0
+3496,London,NaN,Research Resource Specialist,"Columbus, OH 43212","$60,000-$70,000ayear",65000.0
+3544,London,NaN,Data Scientist - Ph.D Statistics,"Columbus, OH","$85,000-$100,000ayear",92500.0
+3971,Atlanta,NaN,Health Scientist,"Atlanta, GA","$91,631-$119,121ayear",105376.0
+3996,Atlanta,NaN,Supervisory Health Scientist,"Atlanta, GA","$127,367-$164,200ayear",145783.5
+4014,Atlanta,NaN,Life Scientist/Environmental Engineer/Physical Scientist (On-Scene Coordinator (OSC)),"Atlanta, GA","$43,441-$69,079ayear",56260.0
+4027,Atlanta,NaN,Hydrologic Technician GS-1316-05/06 (RG - DC),"Norcross, GA","$35,070-$50,813ayear",42941.5
+4035,Atlanta,NaN,Epidemiologist,"Atlanta, GA","$91,631-$119,121ayear",105376.0
+4060,Atlanta,NaN,Information Technology Specialist,"Atlanta, GA","$91,631-$119,121ayear",105376.0
+4089,Atlanta,NaN,Supervisory Epidemiologist,"Atlanta, GA","$108,281-$140,765ayear",124523.0
+4227,Atlanta,Jvion,Jr. Data Scientist,"Atlanta, GA","$60,000-$80,000ayear",70000.0
+4232,Atlanta,NaN,Data Analyst,,"$50,000-$60,000ayear",55000.0
+4235,Atlanta,CIRadar,Business Research Analyst - Entry Level,"Norcross, GA","$30,000-$32,000ayear",31000.0
+4246,Atlanta,LighthouseLabServices,Certifying Scientist / Quantitation Scientist,"Atlanta, GA","$50,000-$55,000ayear",52500.0
+4249,Atlanta,NaN,Director of Data Science,"Atlanta, GA","$130,000-$170,000ayear",150000.0
+4475,Phoenix,NaN,ENVIRONMENTAL SCIENTIST - AIR,"Phoenix, AZ","$67,000-$72,000ayear",69500.0
+4510,Phoenix,NaN,Senior Research Analyst,"Phoenix, AZ","$45,000-$55,000ayear",50000.0
+4552,Phoenix,NaN,Senior Management Research Analyst - Biodiversity in Business,"Tempe, AZ","$56,880-$63,000ayear",59940.0
+4593,Phoenix,NaN,Sr. Manager Data Science / Data Scientist,"Phoenix, AZ","$120,000-$140,000ayear",130000.0
+4599,Phoenix,EzraPenlandActuarialRecruitment,Senior Actuarial Analyst Data Scientist #81885,"Phoenix, AZ","$70,000-$100,000ayear",85000.0
+4603,Phoenix,NaN,Research Analyst II,,"$53,594-$80,391ayear",66992.5
+4993,Seattle,NaN,Physical Scientist/Biologist GS-1301/0401-12 (DEU- LCS),"Tacoma, WA","$79,570-$103,441ayear",91505.5
+4995,Seattle,SeiuLocal775,Research & Data Analyst,"Seattle, WA","$54,000-$73,000ayear",63500.0
+5040,Seattle,All-InAnalytics,Head Data Scientist,"Seattle, WA","$200,000-$250,000ayear",225000.0
+5049,Seattle,All-InAnalytics,Sr. Data Scientist,"Seattle, WA","$130,000-$160,000ayear",145000.0
+5095,Seattle,All-InAnalytics,Lead Data Scientist,"Seattle, WA","$170,000-$185,000ayear",177500.0
+5115,Seattle,NaN,Admin/Exempt - Research Analyst,"Shoreline, WA 98133","$54,000-$61,000ayear",57500.0
+5138,Seattle,WashingtonEnvironmentalCouncil(WEC),Temporary Puget Sound Program Natural Resources Research Analyst,"Seattle, WA","$20,000-$22,000ayear",21000.0
+5165,Seattle,NaN,Wetland Scientist,"Gig Harbor, WA 98335","$52,000-$62,000ayear",57000.0
+5248,Seattle,NaN,Environmental Lab Auditor - Conventional Parameters Chemist (Chemist 4),"Port Orchard, WA","$65,580-$86,076ayear",75828.0
+5502,Austin,LegislativeBudgetBoard,Data Analyst - Public Education Data Analysis,"Austin, TX","$40,000ayear",40000.0
+5545,Austin,RecruiterDNA,Senior Director of Big Data Science & Analytics,"Austin, TX","$125,000-$180,000ayear",152500.0
+5612,Austin,"NewIronGroup,Inc.",Senior Machine Learning Engineer,,"$140,000ayear",140000.0
+5616,Austin,ValkyrieIntelligence,Associate Data Scientist,"Austin, TX","$80,000-$105,000ayear",92500.0
+5617,Austin,ValkyrieIntelligence,Senior Data Scientist,"Austin, TX","$100,000-$140,000ayear",120000.0
+5619,Austin,Senseye,Research Scientist (Neuroscience),"Austin, TX","$100,000ayear",100000.0
+5622,Austin,NaN,Principal Data Scientist,,"$150,000-$185,000ayear",167500.0
+5624,Austin,Senseye,Research Scientist (Vision Science),"Austin, TX","$100,000ayear",100000.0
+5638,Austin,DeeterInvestmentsLLP,Research Analyst In-House Counsel,"Austin, TX","$80,000-$110,000ayear",95000.0
+5981,Philadelphia,S.C.International,Data Scientist,"Philadelphia, PA","$100,000ayear",100000.0
+5983,Philadelphia,All-InAnalytics,Data Scientist,"Philadelphia, PA","$125,000-$145,000ayear",135000.0
+5985,Philadelphia,NaN,"Data Scientist (Deep Learning, Spark)","King of Prussia, PA","$100,000-$150,000ayear",125000.0
+6003,Philadelphia,NaN,Data Scientist,"Philadelphia, PA","$80,000-$140,000ayear",110000.0
+6023,Philadelphia,NaN,Data Scientist (predictive modeling/actuarial background),"Conshohocken, PA","$120,000-$140,000ayear",130000.0
+6058,Philadelphia,NaN,"Senior Data Scientist (Python, R, Spark)","Wayne, PA","$100,000-$150,000ayear",125000.0
+6067,Philadelphia,NaN,Computational Biologist (Bioinformatics),"Wyndmoor, PA","$79,239-$103,011ayear",91125.0
+6087,Philadelphia,NaN,Senior Data Scientist,"Conshohocken, PA","$120,000-$150,000ayear",135000.0
+6112,Philadelphia,NaN,Senior Data Engineer / Data Scientist,"Plymouth Meeting, PA","$120,000-$145,000ayear",132500.0
+6129,Philadelphia,NaN,Senior Data Scientist/Statistician-PHARMA,"Philadelphia, PA","$110,000-$140,000ayear",125000.0
+6154,Philadelphia,OncoraMedical,Backend Engineer,"Philadelphia, PA","$80,000-$120,000ayear",100000.0
+6168,Philadelphia,OncoraMedical,Infrastructure Engineer,"Philadelphia, PA","$80,000-$110,000ayear",95000.0
+6242,Philadelphia,NaN,Quant Research Analyst,"Philadelphia, PA","$150,000-$250,000ayear",200000.0
+6273,Philadelphia,OncoraMedical,Security Engineer,"Philadelphia, PA","$100,000-$150,000ayear",125000.0
+6353,Philadelphia,NaN,"Software Engineer-Development Operations (Jenkins, Ansible, Machine Learning)","Philadelphia, PA","$140,000-$160,000ayear",150000.0
+6362,Philadelphia,NaN,"Senior Python Engineer (AWS, PostgreSQL)","Conshohocken, PA","$100,000-$120,000ayear",110000.0
+6368,Philadelphia,NaN,"Senior Java Engineer (Spring, REST, Machine Learning)","Malvern, PA","$100,000-$140,000ayear",120000.0
+6375,Philadelphia,P&FSolutions,Data Research Analyst,"Norristown, PA","$40,000-$50,000ayear",45000.0
+6376,Philadelphia,PanoramaMedicine,Bioinformatics Scientist,"Philadelphia, PA","$100,000-$130,000ayear",115000.0
+6381,Philadelphia,"SharedXpertiseMedia,LLC",Market Research Analyst,,"$45,000-$55,000ayear",50000.0
+6382,Philadelphia,NaN,Market Research Analyst,,"$70,000ayear",70000.0
+6394,Philadelphia,NaN,Big Data Scientist,"Moorestown, NJ","$120,000-$140,000ayear",130000.0
+6396,Philadelphia,CwaveSolutionsLLC,AI Machine Learning Engineer,"Exton, PA 19341","$55,000-$71,600ayear",63300.0
+6402,Philadelphia,NaN,Data Scientist,"Camden, NJ","$125,000ayear",125000.0
+6417,Philadelphia,"KennedyUnlimitedInc,ProfessionalStaffing",Data Analytics (Big Data Scientist),"Wilmington, DE","$70,000-$100,000ayear",85000.0
+6444,Philadelphia,NaN,Research Analyst - Nurse,"Plymouth Meeting, PA 19462","$95,000-$100,000ayear",97500.0
+6551,New+York,NaN,Bike Share Data Analyst,"Manhattan, NY","$52,143-$78,997ayear",65570.0
+6558,New+York,Glocomms,Data Scientist,"New York, NY","$150,000-$200,000ayear",175000.0
+6561,New+York,NaN,Data Scientist,"New York, NY","$125,000ayear",125000.0
+6573,New+York,NaN,Data Analysis Manager,"New York, NY","$75,000-$85,000ayear",80000.0
+6588,New+York,NaN,Data Analyst,"Manhattan, NY","$70,286-$88,213ayear",79249.5
+6589,New+York,NaN,Data Analyst/Modeler,"Manhattan, NY","$70,286-$80,829ayear",75557.5
+6597,New+York,NaN,"Emergency Preparedness Data Scientist, Bureau of Environmental Surveillance and Policy","Manhattan, NY","$70,286-$87,295ayear",78790.5
+6604,New+York,NaN,CITY RESEARCH SCIENTIST 1,"Queens, NY","$59,708-$72,246ayear",65977.0
+6605,New+York,NaN,Research Scientist III - Health Informatics,"Menands, NY","$81,044ayear",81044.0
+6609,New+York,NaN,Assistant Research Scientist,"Albany, NY","$45,233ayear",45233.0
+6611,New+York,NaN,"Research Analyst & Survey Coordinator, World Trade Center Health Registry","Manhattan, NY","$70,286-$87,295ayear",78790.5
+6626,New+York,NaN,Research Scientist/Program Evaluator (R18-28),"Albany, NY","$50,000ayear",50000.0
+6627,New+York,NaN,Research Scientist 2,"Rensselaer, NY","$69,603-$88,124ayear",78863.5
+6638,New+York,NaN,Data Analyst,"Manhattan, NY","$70,286-$83,784ayear",77035.0
+6644,New+York,DEPARTMENTOFCITYPLANNING,Data Analytics Specialist,"Manhattan, NY","$59,708-$65,678ayear",62693.0
+6656,New+York,NaN,Geologist,"Manhattan, NY","$47,860-$53,000ayear",50430.0
+6685,New+York,NaN,Research Analyst,"Manhattan, NY","$70,286-$85,000ayear",77643.0
+6709,New+York,FIREDEPARTMENT,DIVERSITY & INCLUSION DATA ANALYST,"Brooklyn, NY","$70,286-$88,213ayear",79249.5
+6710,New+York,GUTTMACHER,Research Assistant I,"New York, NY","$40,000ayear",40000.0
+6716,New+York,NaN,Research Analyst,"New York, NY 10036","$50,000-$65,000ayear",57500.0
+6742,New+York,NaN,"Environmental Scientist, Bureau of Environmental Surveillance and Policy","Manhattan, NY","$78,630-$97,659ayear",88144.5
+6754,New+York,NaN,"Data Analyst, Bureau of HIV/AIDS Prevention and Control/HIV/AIDS Prevention","Queens, NY","$70,286-$87,295ayear",78790.5
+6758,New+York,FIREDEPARTMENT,City Research Scientist- Risk,"Brooklyn, NY","$78,630-$103,332ayear",90981.0
+6767,New+York,NaN,Water Quality Analyst,"New York, NY","$70,286-$88,213ayear",79249.5
+6799,New+York,NaN,Administrative Assistant,"New York, NY","$50,000ayear",50000.0
+6804,New+York,NaN,Director of Data Analytics,"Manhattan, NY","$100,000-$113,838ayear",106919.0
+6809,New+York,Harnham,"Senior Data Scientist, Healthcare","New York, NY","$170,000ayear",170000.0
+6813,New+York,NaN,"Data Manager, Viral Hepatitis, Bureau of Communicable Diseases","Queens, NY","$59,708-$65,678ayear",62693.0
+6814,New+York,NaN,Decision Scientist,"New York, NY","$120,000ayear",120000.0
+6818,New+York,NaN,Computational Scientist/Data Scientist,"Buffalo, NY","$60,000-$90,000ayear",75000.0
+6834,New+York,NaN,POLICY and OPERSTIONS RESEARCH | ANALYST,"Manhattan, NY","$58,162-$65,433ayear",61797.5
+6843,New+York,NaN,Child Welfare Analyst,"Manhattan, NY","$70,286-$83,784ayear",77035.0
+6855,New+York,Harnham,Lead Data Scientist - Aerospace,"New York, NY","$240,000ayear",240000.0
+6874,New+York,NaN,Research Analyst-Technical,"New York, NY","$48,000ayear",48000.0
+6877,New+York,NaN,GIS Analyst,"New York, NY","$78,630-$103,332ayear",90981.0
+6879,New+York,Harnham,"Lead Data Scientist, Hedge Fund","New York, NY","$180,000ayear",180000.0
+6899,New+York,Harnham,Adtech Senior Data Scientist,"New York, NY","$180,000ayear",180000.0
+6904,New+York,NaN,"Data Governance Manager, Bureau of Epidemiology Services","Queens, NY","$78,630-$90,659ayear",84644.5
+6909,New+York,DEPARTMENTOFCITYPLANNING,Borough Planner,"Brooklyn, NY","$59,708-$65,678ayear",62693.0
+6915,New+York,NaN,"Data Governance Coordinator, Bureau of HIV/AIDS Prevention and Control -Administration","Queens, NY","$70,286-$80,829ayear",75557.5
+6954,New+York,NaN,Environmental Compliance Specialist,"Manhattan, NY","$70,286-$88,213ayear",79249.5
+6995,Pittsburgh,NaN,Laboratory Technician,"Pittsburgh, PA","$20,904-$32,760ayear",26832.0
+7013,Pittsburgh,NaN,Flow Cytometry Technologist,"Pittsburgh, PA","$23,868-$37,752ayear",30810.0
+7068,Pittsburgh,VantageSpecialtyChemicals,Food Scientist,"Carnegie, PA","$85,000-$110,000ayear",97500.0
+7072,Pittsburgh,NaN,"Lead Analyst, Data Management Quant Analysis",,"$52,000ayear",52000.0
+7079,Pittsburgh,SPLConsultingServices,Project Administrator,,"$32,000-$38,000ayear",35000.0
+7455,Miami,UniversityofMiami,Assistant Scientist,"Coral Gables, FL","$53,900-$60,000ayear",56950.0
+7466,Miami,NaN,Research Analyst - Pediatrics,"Coral Gables, FL","$32,900-$34,000ayear",33450.0
+7482,Miami,NaN,Senior Research Associate 1,"Coral Gables, FL","$32,900-$59,100ayear",46000.0
+7485,Miami,NaN,Sr. Research Analyst,"Coral Gables, FL","$40,000-$72,000ayear",56000.0
+7486,Miami,NaN,Research Analyst (Bioinformatics),"Coral Gables, FL","$32,900-$46,000ayear",39450.0
+7491,Miami,NaN,Grants and Contracts Analyst (Research Analyst),"Coral Gables, FL","$32,900-$50,000ayear",41450.0
+7495,Miami,NaN,Oncology Research Analyst / Healthcare Administrator,"Coral Gables, FL","$38,750ayear",38750.0
+7496,Miami,NaN,"Sr. Manager, Research Support","Coral Gables, FL","$64,600-$80,000ayear",72300.0
+7503,Miami,NaN,Sr. Clinical Systems Analyst - EPIC (Ambulatory/Research),"Coral Gables, FL","$67,500-$108,000ayear",87750.0
+7523,Miami,Talento,Entry Level Data Scientist,"Aventura, FL","$50,000-$70,000ayear",60000.0
+7525,Miami,Peritus,Data Scientist with Process Mining (PS01),"Miami, FL","$110,000-$130,000ayear",120000.0
+7529,Miami,TowerCommercialRealEstate,Research Analyst,"Miami, FL","$40,000-$60,000ayear",50000.0
+7533,Miami,StaffingResourceGroup,Formulations Scientist or Technical Services Lead-Pharmaceutical,"Kendall, FL","$85,000-$90,000ayear",87500.0
+7535,Miami,"INFOTECHSoft,Inc.",Bioinformatics Software Engineer,"Miami, FL","$75,000-$85,000ayear",80000.0
